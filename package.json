@@ -1,0 +1,9 @@
+{
+  "name": "supply-chain-analysis",
+  "private": true,
+  "scripts": {
+    "dev:server": "pnpm --filter server start:dev",
+    "dev:client": "pnpm --filter client dev",
+    "process:data": "cd packages/scripts && source venv/bin/activate && python process_trade_data.py"
+  }
+}
