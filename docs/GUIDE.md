@@ -51,13 +51,86 @@ Next.js 프론트엔드 프로젝트 생성: npx create-next-app@latest client
 
 Python 스크립트 폴더 생성: mkdir scripts && cd scripts
 
-Python 가상환경 설정:
+⚠️ **중요: Git 설정 먼저!**
+Python 가상환경을 만들기 전에 반드시 .gitignore를 설정해야 합니다.
+
+**루트 디렉터리에 .gitignore 파일 생성:**
+
+```gitignore
+node_modules
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+```
+
+**Python 가상환경 설정:**
 
 python -m venv venv
 
 source venv/bin/activate (macOS/Linux) 또는 .\venv\Scripts\activate (Windows)
 
 pip install pandas requests geopandas "shapely<2.0" (Shapely는 GeoPandas와의 호환성을 위해 2.0 미만 버전 명시)
+
+**의존성 관리:**
+
+```bash
+# 패키지 설치 후 requirements.txt에 저장
+pip freeze > requirements.txt
+
+# 다른 환경에서 복원할 때
+pip install -r requirements.txt
+```
+
+⚠️ **절대 주의사항:**
+
+- venv 폴더는 절대 Git에 커밋하지 마세요 (용량이 크고 환경별로 다름)
+- 대신 requirements.txt 파일을 커밋해서 의존성을 관리하세요
+- .gitignore 설정 없이 가상환경을 만들면 수많은 Python 바이너리 파일들이 Git에 추가될 수 있습니다
 
 이제 supply-chain-dashboard/packages/ 아래에 api, client, scripts 세 개의 독립적인 프로젝트가 설정되었습니다.
 
@@ -303,6 +376,7 @@ axios.get(`http://localhost:3001/api/vechain/activity`)
 }, []);
 
 return (
+
 <div>
 <ControlPanel year={year} setYear={setYear} item={item} setItem={setItem} />
 <div className="main-content">
