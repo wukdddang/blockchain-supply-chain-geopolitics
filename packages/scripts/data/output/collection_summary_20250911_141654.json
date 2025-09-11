@@ -1,0 +1,3929 @@
+{
+  "collection_date": "2025-09-11T14:16:54.729597",
+  "total_successful": 440,
+  "total_failed": 50,
+  "successful_collections": [
+    {
+      "year": 2018,
+      "item": "semiconductor_8541",
+      "reporter": "USA",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 1461718471.0
+    },
+    {
+      "year": 2018,
+      "item": "semiconductor_8541",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 1136418605.0
+    },
+    {
+      "year": 2018,
+      "item": "semiconductor_8541",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 254056941.0
+    },
+    {
+      "year": 2018,
+      "item": "semiconductor_8541",
+      "reporter": "USA",
+      "partner": "Korea",
+      "records": 1,
+      "trade_value": 853992386.0
+    },
+    {
+      "year": 2018,
+      "item": "semiconductor_8541",
+      "reporter": "Germany",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 1813816749.883
+    },
+    {
+      "year": 2018,
+      "item": "semiconductor_8541",
+      "reporter": "Germany",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 451614038.396
+    },
+    {
+      "year": 2018,
+      "item": "semiconductor_8541",
+      "reporter": "Japan",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 2578812751.052
+    },
+    {
+      "year": 2018,
+      "item": "semiconductor_8541",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 1712567265.0
+    },
+    {
+      "year": 2018,
+      "item": "semiconductor_8541",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 1223468344.0
+    },
+    {
+      "year": 2018,
+      "item": "semiconductor_8541",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 828267300.0
+    },
+    {
+      "year": 2018,
+      "item": "semiconductor_8542",
+      "reporter": "USA",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 3196152668.0
+    },
+    {
+      "year": 2018,
+      "item": "semiconductor_8542",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 1263345949.0
+    },
+    {
+      "year": 2018,
+      "item": "semiconductor_8542",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 327352447.0
+    },
+    {
+      "year": 2018,
+      "item": "semiconductor_8542",
+      "reporter": "USA",
+      "partner": "Korea",
+      "records": 1,
+      "trade_value": 2169450779.0
+    },
+    {
+      "year": 2018,
+      "item": "semiconductor_8542",
+      "reporter": "Germany",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 2078757516.728
+    },
+    {
+      "year": 2018,
+      "item": "semiconductor_8542",
+      "reporter": "Germany",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 1024966476.257
+    },
+    {
+      "year": 2018,
+      "item": "semiconductor_8542",
+      "reporter": "Japan",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 1880063387.04
+    },
+    {
+      "year": 2018,
+      "item": "semiconductor_8542",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 12147300593.0
+    },
+    {
+      "year": 2018,
+      "item": "semiconductor_8542",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 2392974542.0
+    },
+    {
+      "year": 2018,
+      "item": "semiconductor_8542",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 12018316937.0
+    },
+    {
+      "year": 2018,
+      "item": "oil",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 13822.0
+    },
+    {
+      "year": 2018,
+      "item": "oil",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 162.0
+    },
+    {
+      "year": 2018,
+      "item": "oil",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 39.0
+    },
+    {
+      "year": 2018,
+      "item": "oil",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 6810585921.0
+    },
+    {
+      "year": 2018,
+      "item": "copper",
+      "reporter": "USA",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 3682586.0
+    },
+    {
+      "year": 2018,
+      "item": "copper",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 37493056.0
+    },
+    {
+      "year": 2018,
+      "item": "copper",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 9255477.0
+    },
+    {
+      "year": 2018,
+      "item": "copper",
+      "reporter": "USA",
+      "partner": "Korea",
+      "records": 1,
+      "trade_value": 2276668.0
+    },
+    {
+      "year": 2018,
+      "item": "copper",
+      "reporter": "Germany",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 983754.733
+    },
+    {
+      "year": 2018,
+      "item": "copper",
+      "reporter": "Germany",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 3790181.153
+    },
+    {
+      "year": 2018,
+      "item": "copper",
+      "reporter": "Japan",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 53698886.163
+    },
+    {
+      "year": 2018,
+      "item": "copper",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 18223754.0
+    },
+    {
+      "year": 2018,
+      "item": "copper",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 106133948.0
+    },
+    {
+      "year": 2018,
+      "item": "copper",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 41082022.0
+    },
+    {
+      "year": 2018,
+      "item": "plastic_3901",
+      "reporter": "USA",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 50179860.0
+    },
+    {
+      "year": 2018,
+      "item": "plastic_3901",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 66028763.0
+    },
+    {
+      "year": 2018,
+      "item": "plastic_3901",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 109851870.0
+    },
+    {
+      "year": 2018,
+      "item": "plastic_3901",
+      "reporter": "USA",
+      "partner": "Korea",
+      "records": 1,
+      "trade_value": 62123341.0
+    },
+    {
+      "year": 2018,
+      "item": "plastic_3901",
+      "reporter": "Germany",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 19403607.541
+    },
+    {
+      "year": 2018,
+      "item": "plastic_3901",
+      "reporter": "Germany",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 19393747.351
+    },
+    {
+      "year": 2018,
+      "item": "plastic_3901",
+      "reporter": "Japan",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 12291542.993
+    },
+    {
+      "year": 2018,
+      "item": "plastic_3901",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 44016887.0
+    },
+    {
+      "year": 2018,
+      "item": "plastic_3901",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 72751805.0
+    },
+    {
+      "year": 2018,
+      "item": "plastic_3901",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 1176333498.0
+    },
+    {
+      "year": 2018,
+      "item": "plastic_3902",
+      "reporter": "USA",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 12148263.0
+    },
+    {
+      "year": 2018,
+      "item": "plastic_3902",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 89108180.0
+    },
+    {
+      "year": 2018,
+      "item": "plastic_3902",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 135598007.0
+    },
+    {
+      "year": 2018,
+      "item": "plastic_3902",
+      "reporter": "USA",
+      "partner": "Korea",
+      "records": 1,
+      "trade_value": 232881544.0
+    },
+    {
+      "year": 2018,
+      "item": "plastic_3902",
+      "reporter": "Germany",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 3452886.594
+    },
+    {
+      "year": 2018,
+      "item": "plastic_3902",
+      "reporter": "Germany",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 35205545.687
+    },
+    {
+      "year": 2018,
+      "item": "plastic_3902",
+      "reporter": "Japan",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 38987123.664
+    },
+    {
+      "year": 2018,
+      "item": "plastic_3902",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 5517237.0
+    },
+    {
+      "year": 2018,
+      "item": "plastic_3902",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 42287367.0
+    },
+    {
+      "year": 2018,
+      "item": "plastic_3902",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 192284614.0
+    },
+    {
+      "year": 2018,
+      "item": "plastic_3903",
+      "reporter": "USA",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 57115059.0
+    },
+    {
+      "year": 2018,
+      "item": "plastic_3903",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 62297519.0
+    },
+    {
+      "year": 2018,
+      "item": "plastic_3903",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 56018961.0
+    },
+    {
+      "year": 2018,
+      "item": "plastic_3903",
+      "reporter": "USA",
+      "partner": "Korea",
+      "records": 1,
+      "trade_value": 330502884.0
+    },
+    {
+      "year": 2018,
+      "item": "plastic_3903",
+      "reporter": "Germany",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 3460916.011
+    },
+    {
+      "year": 2018,
+      "item": "plastic_3903",
+      "reporter": "Germany",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 11590765.391
+    },
+    {
+      "year": 2018,
+      "item": "plastic_3903",
+      "reporter": "Japan",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 26624677.253
+    },
+    {
+      "year": 2018,
+      "item": "plastic_3903",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 91628410.0
+    },
+    {
+      "year": 2018,
+      "item": "plastic_3903",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 27233257.0
+    },
+    {
+      "year": 2018,
+      "item": "plastic_3903",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 147676706.0
+    },
+    {
+      "year": 2019,
+      "item": "semiconductor_8541",
+      "reporter": "USA",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 966112944.0
+    },
+    {
+      "year": 2019,
+      "item": "semiconductor_8541",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 1018492680.0
+    },
+    {
+      "year": 2019,
+      "item": "semiconductor_8541",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 247452693.0
+    },
+    {
+      "year": 2019,
+      "item": "semiconductor_8541",
+      "reporter": "USA",
+      "partner": "Korea",
+      "records": 1,
+      "trade_value": 953881425.0
+    },
+    {
+      "year": 2019,
+      "item": "semiconductor_8541",
+      "reporter": "Germany",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 2368466271.739
+    },
+    {
+      "year": 2019,
+      "item": "semiconductor_8541",
+      "reporter": "Germany",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 442492104.945
+    },
+    {
+      "year": 2019,
+      "item": "semiconductor_8541",
+      "reporter": "Japan",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 2574841429.916
+    },
+    {
+      "year": 2019,
+      "item": "semiconductor_8541",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 2000792822.0
+    },
+    {
+      "year": 2019,
+      "item": "semiconductor_8541",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 1238440896.0
+    },
+    {
+      "year": 2019,
+      "item": "semiconductor_8541",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 880028182.0
+    },
+    {
+      "year": 2019,
+      "item": "semiconductor_8542",
+      "reporter": "USA",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 1576849627.0
+    },
+    {
+      "year": 2019,
+      "item": "semiconductor_8542",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 1113683251.0
+    },
+    {
+      "year": 2019,
+      "item": "semiconductor_8542",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 313342912.0
+    },
+    {
+      "year": 2019,
+      "item": "semiconductor_8542",
+      "reporter": "USA",
+      "partner": "Korea",
+      "records": 1,
+      "trade_value": 2156545342.0
+    },
+    {
+      "year": 2019,
+      "item": "semiconductor_8542",
+      "reporter": "Germany",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 1439598674.734
+    },
+    {
+      "year": 2019,
+      "item": "semiconductor_8542",
+      "reporter": "Germany",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 867852438.679
+    },
+    {
+      "year": 2019,
+      "item": "semiconductor_8542",
+      "reporter": "Japan",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 1837254119.139
+    },
+    {
+      "year": 2019,
+      "item": "semiconductor_8542",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 14646105531.0
+    },
+    {
+      "year": 2019,
+      "item": "semiconductor_8542",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 2292831534.0
+    },
+    {
+      "year": 2019,
+      "item": "semiconductor_8542",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 13571791401.0
+    },
+    {
+      "year": 2019,
+      "item": "oil",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 2155.0
+    },
+    {
+      "year": 2019,
+      "item": "oil",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 372.0
+    },
+    {
+      "year": 2019,
+      "item": "oil",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 118.0
+    },
+    {
+      "year": 2019,
+      "item": "oil",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 3318056182.0
+    },
+    {
+      "year": 2019,
+      "item": "copper",
+      "reporter": "USA",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 3997473.0
+    },
+    {
+      "year": 2019,
+      "item": "copper",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 25235145.0
+    },
+    {
+      "year": 2019,
+      "item": "copper",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 14092493.0
+    },
+    {
+      "year": 2019,
+      "item": "copper",
+      "reporter": "USA",
+      "partner": "Korea",
+      "records": 1,
+      "trade_value": 1079458.0
+    },
+    {
+      "year": 2019,
+      "item": "copper",
+      "reporter": "Germany",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 2515920.367
+    },
+    {
+      "year": 2019,
+      "item": "copper",
+      "reporter": "Germany",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 4123487.788
+    },
+    {
+      "year": 2019,
+      "item": "copper",
+      "reporter": "Japan",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 2005626.009
+    },
+    {
+      "year": 2019,
+      "item": "copper",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 8131622.0
+    },
+    {
+      "year": 2019,
+      "item": "copper",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 86424759.0
+    },
+    {
+      "year": 2019,
+      "item": "copper",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 1540560.0
+    },
+    {
+      "year": 2019,
+      "item": "plastic_3901",
+      "reporter": "USA",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 58185486.0
+    },
+    {
+      "year": 2019,
+      "item": "plastic_3901",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 60135816.0
+    },
+    {
+      "year": 2019,
+      "item": "plastic_3901",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 140948480.0
+    },
+    {
+      "year": 2019,
+      "item": "plastic_3901",
+      "reporter": "USA",
+      "partner": "Korea",
+      "records": 1,
+      "trade_value": 92519821.0
+    },
+    {
+      "year": 2019,
+      "item": "plastic_3901",
+      "reporter": "Germany",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 24521173.127
+    },
+    {
+      "year": 2019,
+      "item": "plastic_3901",
+      "reporter": "Germany",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 15500232.706
+    },
+    {
+      "year": 2019,
+      "item": "plastic_3901",
+      "reporter": "Japan",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 11628537.384
+    },
+    {
+      "year": 2019,
+      "item": "plastic_3901",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 40889487.0
+    },
+    {
+      "year": 2019,
+      "item": "plastic_3901",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 75454181.0
+    },
+    {
+      "year": 2019,
+      "item": "plastic_3901",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 843212833.0
+    },
+    {
+      "year": 2019,
+      "item": "plastic_3902",
+      "reporter": "USA",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 6473182.0
+    },
+    {
+      "year": 2019,
+      "item": "plastic_3902",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 109749631.0
+    },
+    {
+      "year": 2019,
+      "item": "plastic_3902",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 130317107.0
+    },
+    {
+      "year": 2019,
+      "item": "plastic_3902",
+      "reporter": "USA",
+      "partner": "Korea",
+      "records": 1,
+      "trade_value": 203176173.0
+    },
+    {
+      "year": 2019,
+      "item": "plastic_3902",
+      "reporter": "Germany",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 4743857.435
+    },
+    {
+      "year": 2019,
+      "item": "plastic_3902",
+      "reporter": "Germany",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 30775036.452
+    },
+    {
+      "year": 2019,
+      "item": "plastic_3902",
+      "reporter": "Japan",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 46054638.718
+    },
+    {
+      "year": 2019,
+      "item": "plastic_3902",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 7170167.0
+    },
+    {
+      "year": 2019,
+      "item": "plastic_3902",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 36959865.0
+    },
+    {
+      "year": 2019,
+      "item": "plastic_3902",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 136777759.0
+    },
+    {
+      "year": 2019,
+      "item": "plastic_3903",
+      "reporter": "USA",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 15909926.0
+    },
+    {
+      "year": 2019,
+      "item": "plastic_3903",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 63425019.0
+    },
+    {
+      "year": 2019,
+      "item": "plastic_3903",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 39335229.0
+    },
+    {
+      "year": 2019,
+      "item": "plastic_3903",
+      "reporter": "USA",
+      "partner": "Korea",
+      "records": 1,
+      "trade_value": 268774961.0
+    },
+    {
+      "year": 2019,
+      "item": "plastic_3903",
+      "reporter": "Germany",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 941400.798
+    },
+    {
+      "year": 2019,
+      "item": "plastic_3903",
+      "reporter": "Germany",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 9702224.165
+    },
+    {
+      "year": 2019,
+      "item": "plastic_3903",
+      "reporter": "Japan",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 32741760.43
+    },
+    {
+      "year": 2019,
+      "item": "plastic_3903",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 73286176.0
+    },
+    {
+      "year": 2019,
+      "item": "plastic_3903",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 26886253.0
+    },
+    {
+      "year": 2019,
+      "item": "plastic_3903",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 138564230.0
+    },
+    {
+      "year": 2020,
+      "item": "semiconductor_8541",
+      "reporter": "USA",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 1076662785.0
+    },
+    {
+      "year": 2020,
+      "item": "semiconductor_8541",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 891133789.0
+    },
+    {
+      "year": 2020,
+      "item": "semiconductor_8541",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 203744929.0
+    },
+    {
+      "year": 2020,
+      "item": "semiconductor_8541",
+      "reporter": "USA",
+      "partner": "Korea",
+      "records": 1,
+      "trade_value": 1266417658.0
+    },
+    {
+      "year": 2020,
+      "item": "semiconductor_8541",
+      "reporter": "Germany",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 2524230402.018
+    },
+    {
+      "year": 2020,
+      "item": "semiconductor_8541",
+      "reporter": "Germany",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 409665613.657
+    },
+    {
+      "year": 2020,
+      "item": "semiconductor_8541",
+      "reporter": "Japan",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 2495568364.373
+    },
+    {
+      "year": 2020,
+      "item": "semiconductor_8541",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 1809709242.0
+    },
+    {
+      "year": 2020,
+      "item": "semiconductor_8541",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 1467079355.0
+    },
+    {
+      "year": 2020,
+      "item": "semiconductor_8541",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 828693895.0
+    },
+    {
+      "year": 2020,
+      "item": "semiconductor_8542",
+      "reporter": "USA",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 1802352660.0
+    },
+    {
+      "year": 2020,
+      "item": "semiconductor_8542",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 984126945.0
+    },
+    {
+      "year": 2020,
+      "item": "semiconductor_8542",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 242389783.0
+    },
+    {
+      "year": 2020,
+      "item": "semiconductor_8542",
+      "reporter": "USA",
+      "partner": "Korea",
+      "records": 1,
+      "trade_value": 1969702216.0
+    },
+    {
+      "year": 2020,
+      "item": "semiconductor_8542",
+      "reporter": "Germany",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 1211141947.892
+    },
+    {
+      "year": 2020,
+      "item": "semiconductor_8542",
+      "reporter": "Germany",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 770833317.918
+    },
+    {
+      "year": 2020,
+      "item": "semiconductor_8542",
+      "reporter": "Japan",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 1757177229.56
+    },
+    {
+      "year": 2020,
+      "item": "semiconductor_8542",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 16122200560.0
+    },
+    {
+      "year": 2020,
+      "item": "semiconductor_8542",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 2556665620.0
+    },
+    {
+      "year": 2020,
+      "item": "semiconductor_8542",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 14223455156.0
+    },
+    {
+      "year": 2020,
+      "item": "oil",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 871.0
+    },
+    {
+      "year": 2020,
+      "item": "oil",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 6399518898.0
+    },
+    {
+      "year": 2020,
+      "item": "copper",
+      "reporter": "USA",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 3444325.0
+    },
+    {
+      "year": 2020,
+      "item": "copper",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 14861636.0
+    },
+    {
+      "year": 2020,
+      "item": "copper",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 13322178.0
+    },
+    {
+      "year": 2020,
+      "item": "copper",
+      "reporter": "USA",
+      "partner": "Korea",
+      "records": 1,
+      "trade_value": 11742386.0
+    },
+    {
+      "year": 2020,
+      "item": "copper",
+      "reporter": "Germany",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 2621313.994
+    },
+    {
+      "year": 2020,
+      "item": "copper",
+      "reporter": "Germany",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 3842063.408
+    },
+    {
+      "year": 2020,
+      "item": "copper",
+      "reporter": "Japan",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 60536.271
+    },
+    {
+      "year": 2020,
+      "item": "copper",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 2768149.0
+    },
+    {
+      "year": 2020,
+      "item": "copper",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 92308965.0
+    },
+    {
+      "year": 2020,
+      "item": "copper",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 7646627.0
+    },
+    {
+      "year": 2020,
+      "item": "plastic_3901",
+      "reporter": "USA",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 38833747.0
+    },
+    {
+      "year": 2020,
+      "item": "plastic_3901",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 46631030.0
+    },
+    {
+      "year": 2020,
+      "item": "plastic_3901",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 93304840.0
+    },
+    {
+      "year": 2020,
+      "item": "plastic_3901",
+      "reporter": "USA",
+      "partner": "Korea",
+      "records": 1,
+      "trade_value": 82610753.0
+    },
+    {
+      "year": 2020,
+      "item": "plastic_3901",
+      "reporter": "Germany",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 23770233.358
+    },
+    {
+      "year": 2020,
+      "item": "plastic_3901",
+      "reporter": "Germany",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 12520416.136
+    },
+    {
+      "year": 2020,
+      "item": "plastic_3901",
+      "reporter": "Japan",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 9252617.333
+    },
+    {
+      "year": 2020,
+      "item": "plastic_3901",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 43359933.0
+    },
+    {
+      "year": 2020,
+      "item": "plastic_3901",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 67058909.0
+    },
+    {
+      "year": 2020,
+      "item": "plastic_3901",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 1262589493.0
+    },
+    {
+      "year": 2020,
+      "item": "plastic_3902",
+      "reporter": "USA",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 6297101.0
+    },
+    {
+      "year": 2020,
+      "item": "plastic_3902",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 83395677.0
+    },
+    {
+      "year": 2020,
+      "item": "plastic_3902",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 81537145.0
+    },
+    {
+      "year": 2020,
+      "item": "plastic_3902",
+      "reporter": "USA",
+      "partner": "Korea",
+      "records": 1,
+      "trade_value": 164520663.0
+    },
+    {
+      "year": 2020,
+      "item": "plastic_3902",
+      "reporter": "Germany",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 5565505.938
+    },
+    {
+      "year": 2020,
+      "item": "plastic_3902",
+      "reporter": "Germany",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 29395449.915
+    },
+    {
+      "year": 2020,
+      "item": "plastic_3902",
+      "reporter": "Japan",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 31617992.336
+    },
+    {
+      "year": 2020,
+      "item": "plastic_3902",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 8131338.0
+    },
+    {
+      "year": 2020,
+      "item": "plastic_3902",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 31626495.0
+    },
+    {
+      "year": 2020,
+      "item": "plastic_3902",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 218714623.0
+    },
+    {
+      "year": 2020,
+      "item": "plastic_3903",
+      "reporter": "USA",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 14102537.0
+    },
+    {
+      "year": 2020,
+      "item": "plastic_3903",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 50559782.0
+    },
+    {
+      "year": 2020,
+      "item": "plastic_3903",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 34555536.0
+    },
+    {
+      "year": 2020,
+      "item": "plastic_3903",
+      "reporter": "USA",
+      "partner": "Korea",
+      "records": 1,
+      "trade_value": 219818936.0
+    },
+    {
+      "year": 2020,
+      "item": "plastic_3903",
+      "reporter": "Germany",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 1723121.443
+    },
+    {
+      "year": 2020,
+      "item": "plastic_3903",
+      "reporter": "Germany",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 9286023.911
+    },
+    {
+      "year": 2020,
+      "item": "plastic_3903",
+      "reporter": "Japan",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 31105265.2
+    },
+    {
+      "year": 2020,
+      "item": "plastic_3903",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 61663333.0
+    },
+    {
+      "year": 2020,
+      "item": "plastic_3903",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 21983074.0
+    },
+    {
+      "year": 2020,
+      "item": "plastic_3903",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 130509838.0
+    },
+    {
+      "year": 2021,
+      "item": "semiconductor_8541",
+      "reporter": "USA",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 907497579.0
+    },
+    {
+      "year": 2021,
+      "item": "semiconductor_8541",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 1120890908.0
+    },
+    {
+      "year": 2021,
+      "item": "semiconductor_8541",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 249584718.0
+    },
+    {
+      "year": 2021,
+      "item": "semiconductor_8541",
+      "reporter": "USA",
+      "partner": "Korea",
+      "records": 1,
+      "trade_value": 973113563.0
+    },
+    {
+      "year": 2021,
+      "item": "semiconductor_8541",
+      "reporter": "Germany",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 3688206634.228
+    },
+    {
+      "year": 2021,
+      "item": "semiconductor_8541",
+      "reporter": "Germany",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 512336894.713
+    },
+    {
+      "year": 2021,
+      "item": "semiconductor_8541",
+      "reporter": "Japan",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 2497599138.355
+    },
+    {
+      "year": 2021,
+      "item": "semiconductor_8541",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 2062674822.0
+    },
+    {
+      "year": 2021,
+      "item": "semiconductor_8541",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 1756595064.0
+    },
+    {
+      "year": 2021,
+      "item": "semiconductor_8541",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 830713470.0
+    },
+    {
+      "year": 2021,
+      "item": "semiconductor_8542",
+      "reporter": "USA",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 2359692512.0
+    },
+    {
+      "year": 2021,
+      "item": "semiconductor_8542",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 984549972.0
+    },
+    {
+      "year": 2021,
+      "item": "semiconductor_8542",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 407908164.0
+    },
+    {
+      "year": 2021,
+      "item": "semiconductor_8542",
+      "reporter": "USA",
+      "partner": "Korea",
+      "records": 1,
+      "trade_value": 2526387337.0
+    },
+    {
+      "year": 2021,
+      "item": "semiconductor_8542",
+      "reporter": "Germany",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 2025468088.113
+    },
+    {
+      "year": 2021,
+      "item": "semiconductor_8542",
+      "reporter": "Germany",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 874608167.025
+    },
+    {
+      "year": 2021,
+      "item": "semiconductor_8542",
+      "reporter": "Japan",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 2449110241.206
+    },
+    {
+      "year": 2021,
+      "item": "semiconductor_8542",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 20729679902.0
+    },
+    {
+      "year": 2021,
+      "item": "semiconductor_8542",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 3182959499.0
+    },
+    {
+      "year": 2021,
+      "item": "semiconductor_8542",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 15734159486.0
+    },
+    {
+      "year": 2021,
+      "item": "oil",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 60715493.0
+    },
+    {
+      "year": 2021,
+      "item": "oil",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 5631159431.0
+    },
+    {
+      "year": 2021,
+      "item": "copper",
+      "reporter": "USA",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 5306679.0
+    },
+    {
+      "year": 2021,
+      "item": "copper",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 14164851.0
+    },
+    {
+      "year": 2021,
+      "item": "copper",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 24212554.0
+    },
+    {
+      "year": 2021,
+      "item": "copper",
+      "reporter": "USA",
+      "partner": "Korea",
+      "records": 1,
+      "trade_value": 3806877.0
+    },
+    {
+      "year": 2021,
+      "item": "copper",
+      "reporter": "Germany",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 4383457.642
+    },
+    {
+      "year": 2021,
+      "item": "copper",
+      "reporter": "Germany",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 5253306.135
+    },
+    {
+      "year": 2021,
+      "item": "copper",
+      "reporter": "Japan",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 18764145.59
+    },
+    {
+      "year": 2021,
+      "item": "copper",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 3802817.0
+    },
+    {
+      "year": 2021,
+      "item": "copper",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 101508368.0
+    },
+    {
+      "year": 2021,
+      "item": "copper",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 27075010.0
+    },
+    {
+      "year": 2021,
+      "item": "plastic_3901",
+      "reporter": "USA",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 57955805.0
+    },
+    {
+      "year": 2021,
+      "item": "plastic_3901",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 61523121.0
+    },
+    {
+      "year": 2021,
+      "item": "plastic_3901",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 94076462.0
+    },
+    {
+      "year": 2021,
+      "item": "plastic_3901",
+      "reporter": "USA",
+      "partner": "Korea",
+      "records": 1,
+      "trade_value": 84449308.0
+    },
+    {
+      "year": 2021,
+      "item": "plastic_3901",
+      "reporter": "Germany",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 59010588.416
+    },
+    {
+      "year": 2021,
+      "item": "plastic_3901",
+      "reporter": "Germany",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 19401873.155
+    },
+    {
+      "year": 2021,
+      "item": "plastic_3901",
+      "reporter": "Japan",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 13521568.785
+    },
+    {
+      "year": 2021,
+      "item": "plastic_3901",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 65837443.0
+    },
+    {
+      "year": 2021,
+      "item": "plastic_3901",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 81949752.0
+    },
+    {
+      "year": 2021,
+      "item": "plastic_3901",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 1357743029.0
+    },
+    {
+      "year": 2021,
+      "item": "plastic_3902",
+      "reporter": "USA",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 23256323.0
+    },
+    {
+      "year": 2021,
+      "item": "plastic_3902",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 99011967.0
+    },
+    {
+      "year": 2021,
+      "item": "plastic_3902",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 112264356.0
+    },
+    {
+      "year": 2021,
+      "item": "plastic_3902",
+      "reporter": "USA",
+      "partner": "Korea",
+      "records": 1,
+      "trade_value": 465520973.0
+    },
+    {
+      "year": 2021,
+      "item": "plastic_3902",
+      "reporter": "Germany",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 15732566.334
+    },
+    {
+      "year": 2021,
+      "item": "plastic_3902",
+      "reporter": "Germany",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 38370872.022
+    },
+    {
+      "year": 2021,
+      "item": "plastic_3902",
+      "reporter": "Japan",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 46544046.169
+    },
+    {
+      "year": 2021,
+      "item": "plastic_3902",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 11176624.0
+    },
+    {
+      "year": 2021,
+      "item": "plastic_3902",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 32612773.0
+    },
+    {
+      "year": 2021,
+      "item": "plastic_3902",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 245895663.0
+    },
+    {
+      "year": 2021,
+      "item": "plastic_3903",
+      "reporter": "USA",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 31176889.0
+    },
+    {
+      "year": 2021,
+      "item": "plastic_3903",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 60659465.0
+    },
+    {
+      "year": 2021,
+      "item": "plastic_3903",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 56065738.0
+    },
+    {
+      "year": 2021,
+      "item": "plastic_3903",
+      "reporter": "USA",
+      "partner": "Korea",
+      "records": 1,
+      "trade_value": 360262648.0
+    },
+    {
+      "year": 2021,
+      "item": "plastic_3903",
+      "reporter": "Germany",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 3510385.425
+    },
+    {
+      "year": 2021,
+      "item": "plastic_3903",
+      "reporter": "Germany",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 7933701.538
+    },
+    {
+      "year": 2021,
+      "item": "plastic_3903",
+      "reporter": "Japan",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 45263897.321
+    },
+    {
+      "year": 2021,
+      "item": "plastic_3903",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 72073640.0
+    },
+    {
+      "year": 2021,
+      "item": "plastic_3903",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 22535321.0
+    },
+    {
+      "year": 2021,
+      "item": "plastic_3903",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 176761881.0
+    },
+    {
+      "year": 2022,
+      "item": "semiconductor_8541",
+      "reporter": "USA",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 1076531398.0
+    },
+    {
+      "year": 2022,
+      "item": "semiconductor_8541",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 1164257218.0
+    },
+    {
+      "year": 2022,
+      "item": "semiconductor_8541",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 346560266.0
+    },
+    {
+      "year": 2022,
+      "item": "semiconductor_8541",
+      "reporter": "USA",
+      "partner": "Korea",
+      "records": 1,
+      "trade_value": 1534257751.0
+    },
+    {
+      "year": 2022,
+      "item": "semiconductor_8541",
+      "reporter": "Germany",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 6482777504.032
+    },
+    {
+      "year": 2022,
+      "item": "semiconductor_8541",
+      "reporter": "Germany",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 531828234.6
+    },
+    {
+      "year": 2022,
+      "item": "semiconductor_8541",
+      "reporter": "Japan",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 2727042137.391
+    },
+    {
+      "year": 2022,
+      "item": "semiconductor_8541",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 2030882595.0
+    },
+    {
+      "year": 2022,
+      "item": "semiconductor_8541",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 1561319024.0
+    },
+    {
+      "year": 2022,
+      "item": "semiconductor_8541",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 704978894.0
+    },
+    {
+      "year": 2022,
+      "item": "semiconductor_8542",
+      "reporter": "USA",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 2613136720.0
+    },
+    {
+      "year": 2022,
+      "item": "semiconductor_8542",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 1028204753.0
+    },
+    {
+      "year": 2022,
+      "item": "semiconductor_8542",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 521305270.0
+    },
+    {
+      "year": 2022,
+      "item": "semiconductor_8542",
+      "reporter": "USA",
+      "partner": "Korea",
+      "records": 1,
+      "trade_value": 3107233428.0
+    },
+    {
+      "year": 2022,
+      "item": "semiconductor_8542",
+      "reporter": "Germany",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 3139539857.405
+    },
+    {
+      "year": 2022,
+      "item": "semiconductor_8542",
+      "reporter": "Germany",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 977265316.179
+    },
+    {
+      "year": 2022,
+      "item": "semiconductor_8542",
+      "reporter": "Japan",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 2631470568.84
+    },
+    {
+      "year": 2022,
+      "item": "semiconductor_8542",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 23504782880.0
+    },
+    {
+      "year": 2022,
+      "item": "semiconductor_8542",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 5302034382.0
+    },
+    {
+      "year": 2022,
+      "item": "semiconductor_8542",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 12181956717.0
+    },
+    {
+      "year": 2022,
+      "item": "oil",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 33275591.0
+    },
+    {
+      "year": 2022,
+      "item": "oil",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 80639178.0
+    },
+    {
+      "year": 2022,
+      "item": "oil",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 5829963327.0
+    },
+    {
+      "year": 2022,
+      "item": "copper",
+      "reporter": "USA",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 6221865.0
+    },
+    {
+      "year": 2022,
+      "item": "copper",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 14962752.0
+    },
+    {
+      "year": 2022,
+      "item": "copper",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 37296564.0
+    },
+    {
+      "year": 2022,
+      "item": "copper",
+      "reporter": "USA",
+      "partner": "Korea",
+      "records": 1,
+      "trade_value": 505118.0
+    },
+    {
+      "year": 2022,
+      "item": "copper",
+      "reporter": "Germany",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 6156521.265
+    },
+    {
+      "year": 2022,
+      "item": "copper",
+      "reporter": "Germany",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 2840198.252
+    },
+    {
+      "year": 2022,
+      "item": "copper",
+      "reporter": "Japan",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 13311640.23
+    },
+    {
+      "year": 2022,
+      "item": "copper",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 7786036.0
+    },
+    {
+      "year": 2022,
+      "item": "copper",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 103234498.0
+    },
+    {
+      "year": 2022,
+      "item": "copper",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 12762660.0
+    },
+    {
+      "year": 2022,
+      "item": "plastic_3901",
+      "reporter": "USA",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 88637333.0
+    },
+    {
+      "year": 2022,
+      "item": "plastic_3901",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 66528354.0
+    },
+    {
+      "year": 2022,
+      "item": "plastic_3901",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 120517633.0
+    },
+    {
+      "year": 2022,
+      "item": "plastic_3901",
+      "reporter": "USA",
+      "partner": "Korea",
+      "records": 1,
+      "trade_value": 109257003.0
+    },
+    {
+      "year": 2022,
+      "item": "plastic_3901",
+      "reporter": "Germany",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 81322859.592
+    },
+    {
+      "year": 2022,
+      "item": "plastic_3901",
+      "reporter": "Germany",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 13546052.217
+    },
+    {
+      "year": 2022,
+      "item": "plastic_3901",
+      "reporter": "Japan",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 13659211.672
+    },
+    {
+      "year": 2022,
+      "item": "plastic_3901",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 68354042.0
+    },
+    {
+      "year": 2022,
+      "item": "plastic_3901",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 73552762.0
+    },
+    {
+      "year": 2022,
+      "item": "plastic_3901",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 1784156036.0
+    },
+    {
+      "year": 2022,
+      "item": "plastic_3902",
+      "reporter": "USA",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 14208161.0
+    },
+    {
+      "year": 2022,
+      "item": "plastic_3902",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 117331270.0
+    },
+    {
+      "year": 2022,
+      "item": "plastic_3902",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 130255824.0
+    },
+    {
+      "year": 2022,
+      "item": "plastic_3902",
+      "reporter": "USA",
+      "partner": "Korea",
+      "records": 1,
+      "trade_value": 322456078.0
+    },
+    {
+      "year": 2022,
+      "item": "plastic_3902",
+      "reporter": "Germany",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 14571758.427
+    },
+    {
+      "year": 2022,
+      "item": "plastic_3902",
+      "reporter": "Germany",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 29150755.364
+    },
+    {
+      "year": 2022,
+      "item": "plastic_3902",
+      "reporter": "Japan",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 50681239.564
+    },
+    {
+      "year": 2022,
+      "item": "plastic_3902",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 12876331.0
+    },
+    {
+      "year": 2022,
+      "item": "plastic_3902",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 26842772.0
+    },
+    {
+      "year": 2022,
+      "item": "plastic_3902",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 230727573.0
+    },
+    {
+      "year": 2022,
+      "item": "plastic_3903",
+      "reporter": "USA",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 27176101.0
+    },
+    {
+      "year": 2022,
+      "item": "plastic_3903",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 63747859.0
+    },
+    {
+      "year": 2022,
+      "item": "plastic_3903",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 77799149.0
+    },
+    {
+      "year": 2022,
+      "item": "plastic_3903",
+      "reporter": "USA",
+      "partner": "Korea",
+      "records": 1,
+      "trade_value": 434845809.0
+    },
+    {
+      "year": 2022,
+      "item": "plastic_3903",
+      "reporter": "Germany",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 2735791.532
+    },
+    {
+      "year": 2022,
+      "item": "plastic_3903",
+      "reporter": "Germany",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 5416306.302
+    },
+    {
+      "year": 2022,
+      "item": "plastic_3903",
+      "reporter": "Japan",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 45638103.792
+    },
+    {
+      "year": 2022,
+      "item": "plastic_3903",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 95780881.0
+    },
+    {
+      "year": 2022,
+      "item": "plastic_3903",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 23473501.0
+    },
+    {
+      "year": 2022,
+      "item": "plastic_3903",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 135358932.0
+    },
+    {
+      "year": 2023,
+      "item": "semiconductor_8541",
+      "reporter": "USA",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 722919755.0
+    },
+    {
+      "year": 2023,
+      "item": "semiconductor_8541",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 1074068292.0
+    },
+    {
+      "year": 2023,
+      "item": "semiconductor_8541",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 471493801.0
+    },
+    {
+      "year": 2023,
+      "item": "semiconductor_8541",
+      "reporter": "USA",
+      "partner": "Korea",
+      "records": 1,
+      "trade_value": 1477961200.0
+    },
+    {
+      "year": 2023,
+      "item": "semiconductor_8541",
+      "reporter": "Germany",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 5625333201.482
+    },
+    {
+      "year": 2023,
+      "item": "semiconductor_8541",
+      "reporter": "Germany",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 579072974.114
+    },
+    {
+      "year": 2023,
+      "item": "semiconductor_8541",
+      "reporter": "Japan",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 2115631122.63
+    },
+    {
+      "year": 2023,
+      "item": "semiconductor_8541",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 1886691979.0
+    },
+    {
+      "year": 2023,
+      "item": "semiconductor_8541",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 1570187195.0
+    },
+    {
+      "year": 2023,
+      "item": "semiconductor_8541",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 556478657.0
+    },
+    {
+      "year": 2023,
+      "item": "semiconductor_8542",
+      "reporter": "USA",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 1845664125.0
+    },
+    {
+      "year": 2023,
+      "item": "semiconductor_8542",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 1039397928.0
+    },
+    {
+      "year": 2023,
+      "item": "semiconductor_8542",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 730254711.0
+    },
+    {
+      "year": 2023,
+      "item": "semiconductor_8542",
+      "reporter": "USA",
+      "partner": "Korea",
+      "records": 1,
+      "trade_value": 2400493160.0
+    },
+    {
+      "year": 2023,
+      "item": "semiconductor_8542",
+      "reporter": "Germany",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 2604576454.126
+    },
+    {
+      "year": 2023,
+      "item": "semiconductor_8542",
+      "reporter": "Germany",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 1011820691.274
+    },
+    {
+      "year": 2023,
+      "item": "semiconductor_8542",
+      "reporter": "Japan",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 1749282907.209
+    },
+    {
+      "year": 2023,
+      "item": "semiconductor_8542",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 16816793018.0
+    },
+    {
+      "year": 2023,
+      "item": "semiconductor_8542",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 5058786440.0
+    },
+    {
+      "year": 2023,
+      "item": "semiconductor_8542",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 8306920666.0
+    },
+    {
+      "year": 2023,
+      "item": "oil",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 3581.0
+    },
+    {
+      "year": 2023,
+      "item": "oil",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 421.0
+    },
+    {
+      "year": 2023,
+      "item": "oil",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 9087793856.0
+    },
+    {
+      "year": 2023,
+      "item": "copper",
+      "reporter": "USA",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 4740449.0
+    },
+    {
+      "year": 2023,
+      "item": "copper",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 20688556.0
+    },
+    {
+      "year": 2023,
+      "item": "copper",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 24088722.0
+    },
+    {
+      "year": 2023,
+      "item": "copper",
+      "reporter": "USA",
+      "partner": "Korea",
+      "records": 1,
+      "trade_value": 1113121.0
+    },
+    {
+      "year": 2023,
+      "item": "copper",
+      "reporter": "Germany",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 18528385.915
+    },
+    {
+      "year": 2023,
+      "item": "copper",
+      "reporter": "Germany",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 6181689.559
+    },
+    {
+      "year": 2023,
+      "item": "copper",
+      "reporter": "Japan",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 11979.392
+    },
+    {
+      "year": 2023,
+      "item": "copper",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 13966542.0
+    },
+    {
+      "year": 2023,
+      "item": "copper",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 114480536.0
+    },
+    {
+      "year": 2023,
+      "item": "copper",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 21816043.0
+    },
+    {
+      "year": 2023,
+      "item": "plastic_3901",
+      "reporter": "USA",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 41574102.0
+    },
+    {
+      "year": 2023,
+      "item": "plastic_3901",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 61372078.0
+    },
+    {
+      "year": 2023,
+      "item": "plastic_3901",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 143146809.0
+    },
+    {
+      "year": 2023,
+      "item": "plastic_3901",
+      "reporter": "USA",
+      "partner": "Korea",
+      "records": 1,
+      "trade_value": 93157615.0
+    },
+    {
+      "year": 2023,
+      "item": "plastic_3901",
+      "reporter": "Germany",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 26408824.494
+    },
+    {
+      "year": 2023,
+      "item": "plastic_3901",
+      "reporter": "Germany",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 11253146.348
+    },
+    {
+      "year": 2023,
+      "item": "plastic_3901",
+      "reporter": "Japan",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 8092346.244
+    },
+    {
+      "year": 2023,
+      "item": "plastic_3901",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 47801483.0
+    },
+    {
+      "year": 2023,
+      "item": "plastic_3901",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 65126474.0
+    },
+    {
+      "year": 2023,
+      "item": "plastic_3901",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 3026047521.0
+    },
+    {
+      "year": 2023,
+      "item": "plastic_3902",
+      "reporter": "USA",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 15293898.0
+    },
+    {
+      "year": 2023,
+      "item": "plastic_3902",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 79531102.0
+    },
+    {
+      "year": 2023,
+      "item": "plastic_3902",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 102323520.0
+    },
+    {
+      "year": 2023,
+      "item": "plastic_3902",
+      "reporter": "USA",
+      "partner": "Korea",
+      "records": 1,
+      "trade_value": 215125558.0
+    },
+    {
+      "year": 2023,
+      "item": "plastic_3902",
+      "reporter": "Germany",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 14104916.077
+    },
+    {
+      "year": 2023,
+      "item": "plastic_3902",
+      "reporter": "Germany",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 28119264.857
+    },
+    {
+      "year": 2023,
+      "item": "plastic_3902",
+      "reporter": "Japan",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 57122467.519
+    },
+    {
+      "year": 2023,
+      "item": "plastic_3902",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 20858433.0
+    },
+    {
+      "year": 2023,
+      "item": "plastic_3902",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 26318056.0
+    },
+    {
+      "year": 2023,
+      "item": "plastic_3902",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 218454506.0
+    },
+    {
+      "year": 2023,
+      "item": "plastic_3903",
+      "reporter": "USA",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 26525387.0
+    },
+    {
+      "year": 2023,
+      "item": "plastic_3903",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 45827151.0
+    },
+    {
+      "year": 2023,
+      "item": "plastic_3903",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 48862597.0
+    },
+    {
+      "year": 2023,
+      "item": "plastic_3903",
+      "reporter": "USA",
+      "partner": "Korea",
+      "records": 1,
+      "trade_value": 328505027.0
+    },
+    {
+      "year": 2023,
+      "item": "plastic_3903",
+      "reporter": "Germany",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 7417051.211
+    },
+    {
+      "year": 2023,
+      "item": "plastic_3903",
+      "reporter": "Germany",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 8100246.3
+    },
+    {
+      "year": 2023,
+      "item": "plastic_3903",
+      "reporter": "Japan",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 37554910.03
+    },
+    {
+      "year": 2023,
+      "item": "plastic_3903",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 93001617.0
+    },
+    {
+      "year": 2023,
+      "item": "plastic_3903",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 21459095.0
+    },
+    {
+      "year": 2023,
+      "item": "plastic_3903",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 97988545.0
+    },
+    {
+      "year": 2024,
+      "item": "semiconductor_8541",
+      "reporter": "USA",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 642443853.0
+    },
+    {
+      "year": 2024,
+      "item": "semiconductor_8541",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 1003073426.0
+    },
+    {
+      "year": 2024,
+      "item": "semiconductor_8541",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 313779327.0
+    },
+    {
+      "year": 2024,
+      "item": "semiconductor_8541",
+      "reporter": "USA",
+      "partner": "Korea",
+      "records": 1,
+      "trade_value": 828498872.0
+    },
+    {
+      "year": 2024,
+      "item": "semiconductor_8541",
+      "reporter": "Germany",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 3230636979.727
+    },
+    {
+      "year": 2024,
+      "item": "semiconductor_8541",
+      "reporter": "Germany",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 484948277.92
+    },
+    {
+      "year": 2024,
+      "item": "semiconductor_8541",
+      "reporter": "Japan",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 1538004772.055
+    },
+    {
+      "year": 2024,
+      "item": "semiconductor_8541",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 1580442661.0
+    },
+    {
+      "year": 2024,
+      "item": "semiconductor_8541",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 1603502895.0
+    },
+    {
+      "year": 2024,
+      "item": "semiconductor_8541",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 1042098864.0
+    },
+    {
+      "year": 2024,
+      "item": "semiconductor_8542",
+      "reporter": "USA",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 1473432024.0
+    },
+    {
+      "year": 2024,
+      "item": "semiconductor_8542",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 1016130660.0
+    },
+    {
+      "year": 2024,
+      "item": "semiconductor_8542",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 811703759.0
+    },
+    {
+      "year": 2024,
+      "item": "semiconductor_8542",
+      "reporter": "USA",
+      "partner": "Korea",
+      "records": 1,
+      "trade_value": 2422182840.0
+    },
+    {
+      "year": 2024,
+      "item": "semiconductor_8542",
+      "reporter": "Germany",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 2007333793.094
+    },
+    {
+      "year": 2024,
+      "item": "semiconductor_8542",
+      "reporter": "Germany",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 841754502.994
+    },
+    {
+      "year": 2024,
+      "item": "semiconductor_8542",
+      "reporter": "Japan",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 1561601430.041
+    },
+    {
+      "year": 2024,
+      "item": "semiconductor_8542",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 19259335811.0
+    },
+    {
+      "year": 2024,
+      "item": "semiconductor_8542",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 5991206115.0
+    },
+    {
+      "year": 2024,
+      "item": "semiconductor_8542",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 11754177020.0
+    },
+    {
+      "year": 2024,
+      "item": "oil",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 11123640.0
+    },
+    {
+      "year": 2024,
+      "item": "oil",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 157.0
+    },
+    {
+      "year": 2024,
+      "item": "oil",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 6019333900.0
+    },
+    {
+      "year": 2024,
+      "item": "copper",
+      "reporter": "USA",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 7387431.0
+    },
+    {
+      "year": 2024,
+      "item": "copper",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 17343082.0
+    },
+    {
+      "year": 2024,
+      "item": "copper",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 7275203.0
+    },
+    {
+      "year": 2024,
+      "item": "copper",
+      "reporter": "USA",
+      "partner": "Korea",
+      "records": 1,
+      "trade_value": 284621.0
+    },
+    {
+      "year": 2024,
+      "item": "copper",
+      "reporter": "Germany",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 3207829.322
+    },
+    {
+      "year": 2024,
+      "item": "copper",
+      "reporter": "Japan",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 199562.243
+    },
+    {
+      "year": 2024,
+      "item": "copper",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 2809612.0
+    },
+    {
+      "year": 2024,
+      "item": "copper",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 116777946.0
+    },
+    {
+      "year": 2024,
+      "item": "copper",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 24070253.0
+    },
+    {
+      "year": 2024,
+      "item": "plastic_3901",
+      "reporter": "USA",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 50418045.0
+    },
+    {
+      "year": 2024,
+      "item": "plastic_3901",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 57042712.0
+    },
+    {
+      "year": 2024,
+      "item": "plastic_3901",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 108293955.0
+    },
+    {
+      "year": 2024,
+      "item": "plastic_3901",
+      "reporter": "USA",
+      "partner": "Korea",
+      "records": 1,
+      "trade_value": 123470340.0
+    },
+    {
+      "year": 2024,
+      "item": "plastic_3901",
+      "reporter": "Germany",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 40028450.215
+    },
+    {
+      "year": 2024,
+      "item": "plastic_3901",
+      "reporter": "Germany",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 11250033.037
+    },
+    {
+      "year": 2024,
+      "item": "plastic_3901",
+      "reporter": "Japan",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 9878512.728
+    },
+    {
+      "year": 2024,
+      "item": "plastic_3901",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 52703686.0
+    },
+    {
+      "year": 2024,
+      "item": "plastic_3901",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 56824715.0
+    },
+    {
+      "year": 2024,
+      "item": "plastic_3901",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 2858939801.0
+    },
+    {
+      "year": 2024,
+      "item": "plastic_3902",
+      "reporter": "USA",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 15248517.0
+    },
+    {
+      "year": 2024,
+      "item": "plastic_3902",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 91861413.0
+    },
+    {
+      "year": 2024,
+      "item": "plastic_3902",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 108184131.0
+    },
+    {
+      "year": 2024,
+      "item": "plastic_3902",
+      "reporter": "USA",
+      "partner": "Korea",
+      "records": 1,
+      "trade_value": 281877569.0
+    },
+    {
+      "year": 2024,
+      "item": "plastic_3902",
+      "reporter": "Germany",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 19275701.225
+    },
+    {
+      "year": 2024,
+      "item": "plastic_3902",
+      "reporter": "Germany",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 30735904.405
+    },
+    {
+      "year": 2024,
+      "item": "plastic_3902",
+      "reporter": "Japan",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 61020540.986
+    },
+    {
+      "year": 2024,
+      "item": "plastic_3902",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 16232194.0
+    },
+    {
+      "year": 2024,
+      "item": "plastic_3902",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 27577766.0
+    },
+    {
+      "year": 2024,
+      "item": "plastic_3902",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 247533183.0
+    },
+    {
+      "year": 2024,
+      "item": "plastic_3903",
+      "reporter": "USA",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 29367993.0
+    },
+    {
+      "year": 2024,
+      "item": "plastic_3903",
+      "reporter": "USA",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 52185227.0
+    },
+    {
+      "year": 2024,
+      "item": "plastic_3903",
+      "reporter": "USA",
+      "partner": "Germany",
+      "records": 1,
+      "trade_value": 38528659.0
+    },
+    {
+      "year": 2024,
+      "item": "plastic_3903",
+      "reporter": "USA",
+      "partner": "Korea",
+      "records": 1,
+      "trade_value": 395598051.0
+    },
+    {
+      "year": 2024,
+      "item": "plastic_3903",
+      "reporter": "Germany",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 8099314.437
+    },
+    {
+      "year": 2024,
+      "item": "plastic_3903",
+      "reporter": "Germany",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 9383388.92
+    },
+    {
+      "year": 2024,
+      "item": "plastic_3903",
+      "reporter": "Japan",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 38373717.887
+    },
+    {
+      "year": 2024,
+      "item": "plastic_3903",
+      "reporter": "Korea",
+      "partner": "China",
+      "records": 1,
+      "trade_value": 81630633.0
+    },
+    {
+      "year": 2024,
+      "item": "plastic_3903",
+      "reporter": "Korea",
+      "partner": "Japan",
+      "records": 1,
+      "trade_value": 20058278.0
+    },
+    {
+      "year": 2024,
+      "item": "plastic_3903",
+      "reporter": "China",
+      "partner": "USA",
+      "records": 1,
+      "trade_value": 103417729.0
+    }
+  ],
+  "failed_requests": [
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2018,
+      "item": "oil",
+      "reporter_name": "USA",
+      "partner_name": "China"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2018,
+      "item": "oil",
+      "reporter_name": "USA",
+      "partner_name": "Germany"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2018,
+      "item": "oil",
+      "reporter_name": "USA",
+      "partner_name": "Korea"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2018,
+      "item": "oil",
+      "reporter_name": "Germany",
+      "partner_name": "China"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2018,
+      "item": "oil",
+      "reporter_name": "Germany",
+      "partner_name": "Japan"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2018,
+      "item": "oil",
+      "reporter_name": "Japan",
+      "partner_name": "China"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2019,
+      "item": "oil",
+      "reporter_name": "USA",
+      "partner_name": "China"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2019,
+      "item": "oil",
+      "reporter_name": "USA",
+      "partner_name": "Japan"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2019,
+      "item": "oil",
+      "reporter_name": "USA",
+      "partner_name": "Korea"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2019,
+      "item": "oil",
+      "reporter_name": "Germany",
+      "partner_name": "China"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2019,
+      "item": "oil",
+      "reporter_name": "Germany",
+      "partner_name": "Japan"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2019,
+      "item": "oil",
+      "reporter_name": "Japan",
+      "partner_name": "China"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2020,
+      "item": "oil",
+      "reporter_name": "USA",
+      "partner_name": "China"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2020,
+      "item": "oil",
+      "reporter_name": "USA",
+      "partner_name": "Japan"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2020,
+      "item": "oil",
+      "reporter_name": "USA",
+      "partner_name": "Germany"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2020,
+      "item": "oil",
+      "reporter_name": "USA",
+      "partner_name": "Korea"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2020,
+      "item": "oil",
+      "reporter_name": "Germany",
+      "partner_name": "China"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2020,
+      "item": "oil",
+      "reporter_name": "Germany",
+      "partner_name": "Japan"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2020,
+      "item": "oil",
+      "reporter_name": "Japan",
+      "partner_name": "China"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2020,
+      "item": "oil",
+      "reporter_name": "Korea",
+      "partner_name": "Japan"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2021,
+      "item": "oil",
+      "reporter_name": "USA",
+      "partner_name": "China"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2021,
+      "item": "oil",
+      "reporter_name": "USA",
+      "partner_name": "Japan"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2021,
+      "item": "oil",
+      "reporter_name": "USA",
+      "partner_name": "Germany"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2021,
+      "item": "oil",
+      "reporter_name": "USA",
+      "partner_name": "Korea"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2021,
+      "item": "oil",
+      "reporter_name": "Germany",
+      "partner_name": "China"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2021,
+      "item": "oil",
+      "reporter_name": "Germany",
+      "partner_name": "Japan"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2021,
+      "item": "oil",
+      "reporter_name": "Japan",
+      "partner_name": "China"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2021,
+      "item": "oil",
+      "reporter_name": "Korea",
+      "partner_name": "Japan"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2022,
+      "item": "oil",
+      "reporter_name": "USA",
+      "partner_name": "China"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2022,
+      "item": "oil",
+      "reporter_name": "USA",
+      "partner_name": "Japan"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2022,
+      "item": "oil",
+      "reporter_name": "USA",
+      "partner_name": "Germany"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2022,
+      "item": "oil",
+      "reporter_name": "USA",
+      "partner_name": "Korea"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2022,
+      "item": "oil",
+      "reporter_name": "Germany",
+      "partner_name": "China"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2022,
+      "item": "oil",
+      "reporter_name": "Germany",
+      "partner_name": "Japan"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2022,
+      "item": "oil",
+      "reporter_name": "Japan",
+      "partner_name": "China"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2023,
+      "item": "oil",
+      "reporter_name": "USA",
+      "partner_name": "China"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2023,
+      "item": "oil",
+      "reporter_name": "USA",
+      "partner_name": "Japan"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2023,
+      "item": "oil",
+      "reporter_name": "USA",
+      "partner_name": "Korea"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2023,
+      "item": "oil",
+      "reporter_name": "Germany",
+      "partner_name": "China"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2023,
+      "item": "oil",
+      "reporter_name": "Germany",
+      "partner_name": "Japan"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2023,
+      "item": "oil",
+      "reporter_name": "Japan",
+      "partner_name": "China"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2023,
+      "item": "oil",
+      "reporter_name": "Korea",
+      "partner_name": "Japan"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2024,
+      "item": "oil",
+      "reporter_name": "USA",
+      "partner_name": "China"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2024,
+      "item": "oil",
+      "reporter_name": "USA",
+      "partner_name": "Japan"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2024,
+      "item": "oil",
+      "reporter_name": "USA",
+      "partner_name": "Germany"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2024,
+      "item": "oil",
+      "reporter_name": "USA",
+      "partner_name": "Korea"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2024,
+      "item": "oil",
+      "reporter_name": "Germany",
+      "partner_name": "China"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2024,
+      "item": "oil",
+      "reporter_name": "Germany",
+      "partner_name": "Japan"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2024,
+      "item": "oil",
+      "reporter_name": "Japan",
+      "partner_name": "China"
+    },
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2024,
+      "item": "copper",
+      "reporter_name": "Germany",
+      "partner_name": "China"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            138.06496213270776,
+            37.66311081170466
+          ],
+          [
+            10.288485092742851,
+            51.13372269040778
+          ]
+        ]
+      },
+      "properties": {
+        "reporter_name": "Germany",
+        "partner_name": "Japan",
+        "trade_value": 579072974.114,
+        "net_weight": 1443692.501,
+        "quantity": 0.0,
+        "item": "semiconductor_8541",
+        "year": 2023,
+        "flow_direction": "Japan → Germany"
+      }
+    }
+  ],
+  "metadata": {
+    "item": "semiconductor_8541",
+    "year": 2023,
+    "reporter": "Germany",
+    "partner": "Japan",
+    "total_flows": 1,
+    "processed_records": 1,
+    "total_records": 1,
+    "created_at": "2025-09-11T14:10:11.526227"
+  }
+}

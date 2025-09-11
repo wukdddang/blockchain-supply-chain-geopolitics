@@ -1,0 +1,16 @@
+{
+  "retry_date": "2025-09-11T14:27:56.967710",
+  "original_failures": 1,
+  "successful_retries": [],
+  "still_failed": [
+    {
+      "success": false,
+      "error": "No data returned",
+      "year": 2024,
+      "item": "copper",
+      "reporter_name": "Germany",
+      "partner_name": "China"
+    }
+  ],
+  "max_retries": 1
+}

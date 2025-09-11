@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.5994359115045,
+            45.70562800215178
+          ],
+          [
+            103.88361230063249,
+            36.555066531858685
+          ]
+        ]
+      },
+      "properties": {
+        "reporter_name": "China",
+        "partner_name": "USA",
+        "trade_value": 27075010.0,
+        "net_weight": 3800501.719,
+        "quantity": 3800501.719,
+        "item": "copper",
+        "year": 2021,
+        "flow_direction": "USA → China"
+      }
+    }
+  ],
+  "metadata": {
+    "item": "copper",
+    "year": 2021,
+    "reporter": "China",
+    "partner": "USA",
+    "total_flows": 1,
+    "processed_records": 1,
+    "total_records": 1,
+    "created_at": "2025-09-11T14:04:51.694926"
+  }
+}

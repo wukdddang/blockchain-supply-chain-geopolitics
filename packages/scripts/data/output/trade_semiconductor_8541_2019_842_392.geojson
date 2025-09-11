@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            138.06496213270776,
+            37.66311081170466
+          ],
+          [
+            -112.5994359115045,
+            45.70562800215178
+          ]
+        ]
+      },
+      "properties": {
+        "reporter_name": "USA",
+        "partner_name": "Japan",
+        "trade_value": 1018492680.0,
+        "net_weight": 8786318.374,
+        "quantity": 0.0,
+        "item": "semiconductor_8541",
+        "year": 2019,
+        "flow_direction": "Japan → USA"
+      }
+    }
+  ],
+  "metadata": {
+    "item": "semiconductor_8541",
+    "year": 2019,
+    "reporter": "USA",
+    "partner": "Japan",
+    "total_flows": 1,
+    "processed_records": 1,
+    "total_records": 1,
+    "created_at": "2025-09-11T13:55:15.981139"
+  }
+}

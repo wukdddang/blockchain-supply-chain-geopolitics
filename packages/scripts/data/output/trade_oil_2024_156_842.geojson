@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.5994359115045,
+            45.70562800215178
+          ],
+          [
+            103.88361230063249,
+            36.555066531858685
+          ]
+        ]
+      },
+      "properties": {
+        "reporter_name": "China",
+        "partner_name": "USA",
+        "trade_value": 6019333900.0,
+        "net_weight": 9639382000.0,
+        "quantity": 9639382000.0,
+        "item": "oil",
+        "year": 2024,
+        "flow_direction": "USA → China"
+      }
+    }
+  ],
+  "metadata": {
+    "item": "oil",
+    "year": 2024,
+    "reporter": "China",
+    "partner": "USA",
+    "total_flows": 1,
+    "processed_records": 1,
+    "total_records": 1,
+    "created_at": "2025-09-11T14:15:01.006356"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "retry_date": "2025-09-11T14:28:17.567604",
+  "original_failures": 1,
+  "successful_retries": [
+    {
+      "year": 2024,
+      "item": "copper",
+      "reporter_name": "Germany",
+      "partner_name": "China",
+      "records": 1,
+      "trade_value": 0,
+      "attempt": 1
+    }
+  ],
+  "still_failed": [],
+  "max_retries": 1
+}

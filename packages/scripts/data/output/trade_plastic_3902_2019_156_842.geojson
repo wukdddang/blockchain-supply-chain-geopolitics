@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.5994359115045,
+            45.70562800215178
+          ],
+          [
+            103.88361230063249,
+            36.555066531858685
+          ]
+        ]
+      },
+      "properties": {
+        "reporter_name": "China",
+        "partner_name": "USA",
+        "trade_value": 136777759.0,
+        "net_weight": 47962065.0,
+        "quantity": 47962065.0,
+        "item": "plastic_3902",
+        "year": 2019,
+        "flow_direction": "USA → China"
+      }
+    }
+  ],
+  "metadata": {
+    "item": "plastic_3902",
+    "year": 2019,
+    "reporter": "China",
+    "partner": "USA",
+    "total_flows": 1,
+    "processed_records": 1,
+    "total_records": 1,
+    "created_at": "2025-09-11T13:58:09.096922"
+  }
+}

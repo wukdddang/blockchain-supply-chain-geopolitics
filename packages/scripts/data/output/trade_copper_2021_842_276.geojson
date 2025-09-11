@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.288485092742851,
+            51.13372269040778
+          ],
+          [
+            -112.5994359115045,
+            45.70562800215178
+          ]
+        ]
+      },
+      "properties": {
+        "reporter_name": "USA",
+        "partner_name": "Germany",
+        "trade_value": 24212554.0,
+        "net_weight": 2267285.558,
+        "quantity": 2267285.558,
+        "item": "copper",
+        "year": 2021,
+        "flow_direction": "Germany → USA"
+      }
+    }
+  ],
+  "metadata": {
+    "item": "copper",
+    "year": 2021,
+    "reporter": "USA",
+    "partner": "Germany",
+    "total_flows": 1,
+    "processed_records": 1,
+    "total_records": 1,
+    "created_at": "2025-09-11T14:04:27.798959"
+  }
+}
