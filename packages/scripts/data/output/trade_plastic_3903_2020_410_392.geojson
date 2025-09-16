@@ -1,14 +1,41 @@
 {
   "type": "FeatureCollection",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            138.06496213270776,
+            37.66311081170466
+          ],
+          [
+            127.8213171283307,
+            36.42759860415487
+          ]
+        ]
+      },
+      "properties": {
+        "reporter_name": "Rep. of Korea",
+        "partner_name": "Japan",
+        "trade_value": 21983074.0,
+        "net_weight": 7395501.295,
+        "quantity": 7395501.295,
+        "item": "plastic_3903",
+        "year": 2020,
+        "flow_direction": "Japan → Rep. of Korea"
+      }
+    }
+  ],
   "metadata": {
     "item": "plastic_3903",
     "year": 2020,
-    "reporter": "Korea",
+    "reporter": "Rep. of Korea",
     "partner": "Japan",
-    "total_flows": 0,
-    "processed_records": 0,
+    "total_flows": 1,
+    "processed_records": 1,
     "total_records": 1,
-    "created_at": "2025-09-11T14:02:23.675238"
+    "created_at": "2025-09-16T10:56:27.178035"
   }
 }

@@ -104,8 +104,32 @@ class BulkDataCollector:
                         'lat': row['centroid_lat']
                     }
             
+            # UN Comtrade API 특수 국가명 매핑 추가
+            comtrade_mappings = {
+                'Rep. of Korea': country_coords.get('South Korea', country_coords.get('Korea')),
+                'China, Hong Kong SAR': country_coords.get('Hong Kong'),
+                'China, Macao SAR': country_coords.get('Macao'),
+                'United States of America': country_coords.get('United States of America'),
+                'Russian Federation': country_coords.get('Russia'),
+                'United Kingdom': country_coords.get('United Kingdom'),
+                'Viet Nam': country_coords.get('Vietnam'),
+                'Iran (Islamic Rep. of)': country_coords.get('Iran'),
+                'Venezuela (Boliv. Rep. of)': country_coords.get('Venezuela'),
+                'Bolivia (Plurin. State of)': country_coords.get('Bolivia'),
+                'Tanzania (United Rep. of)': country_coords.get('Tanzania'),
+                'Moldova (Rep. of)': country_coords.get('Moldova'),
+                'Macedonia (North)': country_coords.get('North Macedonia'),
+                'Czechia': country_coords.get('Czech Rep.', country_coords.get('Czech Republic')),
+                'Türkiye': country_coords.get('Turkey')
+            }
+            
+            # 매핑 추가 (None이 아닌 경우만)
+            for comtrade_name, coords in comtrade_mappings.items():
+                if coords:
+                    country_coords[comtrade_name] = coords
+            
             self.country_coords = country_coords
-            self.log_message(f"국가 좌표 데이터 로딩 완료: {len(country_coords)}개 국가")
+            self.log_message(f"국가 좌표 데이터 로딩 완료: {len(country_coords)}개 국가 (UN Comtrade 매핑 포함)")
             return True
             
         except Exception as e:
