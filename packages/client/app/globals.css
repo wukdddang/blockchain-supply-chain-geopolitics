@@ -2,6 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
+/* OpenLayers CSS */
+@import "ol/ol.css";
+
 :root {
   --background: #ffffff;
   --foreground: #171717;
@@ -24,4 +27,22 @@ body {
   .text-balance {
     text-wrap: balance;
   }
+}
+
+/* OpenLayers 커스텀 스타일 */
+.ol-control {
+  background-color: rgba(255, 255, 255, 0.8) !important;
+  border-radius: 4px !important;
+}
+
+.ol-zoom {
+  top: 1rem !important;
+  right: 1rem !important;
+  left: unset !important;
+}
+
+.ol-attribution {
+  bottom: 0.5rem !important;
+  right: 0.5rem !important;
+  font-size: 0.75rem !important;
 }

@@ -7,7 +7,7 @@ async function bootstrap() {
 
   // CORS 활성화 (프론트엔드에서 접근 가능하도록)
   app.enableCors({
-    origin: ['http://localhost:3000', 'http://127.0.0.1:3000'], // Next.js 기본 포트
+    origin: ['http://localhost:3001', 'http://127.0.0.1:3001'], // Next.js 기본 포트
     credentials: true,
     methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
     allowedHeaders: ['Content-Type', 'Authorization', 'Accept'],
