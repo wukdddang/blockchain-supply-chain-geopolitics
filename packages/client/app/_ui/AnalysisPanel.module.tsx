@@ -171,9 +171,7 @@ export const AnalysisPanel: React.FC<AnalysisPanelProps> = ({
   }
 
   return (
-    <div
-      className={`bg-white rounded-lg shadow-lg border h-full overflow-y-auto ${className}`}
-    >
+    <div className={`h-full overflow-y-auto ${className}`}>
       <div className="p-6 border-b">
         <h3 className="text-lg font-bold text-gray-800 mb-2">
           {selectedYear}년{" "}

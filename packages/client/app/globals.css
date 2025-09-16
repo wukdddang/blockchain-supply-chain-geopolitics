@@ -17,6 +17,34 @@ body {
   }
 }
 
+/* 커스텀 스크롤바 스타일 */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #e5e7eb transparent;
+}
+
+*::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #e5e7eb;
+  border-radius: 2px;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background-color: #d1d5db;
+}
+
+*::-webkit-scrollbar-corner {
+  background: transparent;
+}
+
 /* OpenLayers 커스텀 스타일 */
 .ol-control {
   background-color: rgba(255, 255, 255, 0.8) !important;

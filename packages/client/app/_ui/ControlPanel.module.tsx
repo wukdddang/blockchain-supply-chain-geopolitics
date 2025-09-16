@@ -24,9 +24,7 @@ export const ControlPanel: React.FC<ControlPanelProps> = ({
   } = useSupplyChain();
 
   return (
-    <div
-      className={`bg-white rounded-lg shadow-lg border p-6 h-full overflow-y-auto ${className}`}
-    >
+    <div className={`h-full overflow-y-auto p-6 ${className}`}>
       <div className="mb-6">
         <h2 className="text-xl font-bold text-gray-800 mb-2">
           글로벌 공급망 분석 대시보드

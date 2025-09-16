@@ -23,7 +23,7 @@ const TradeFlowMap = dynamic(
 
 function HomeContent() {
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="h-screen bg-gray-50 overflow-hidden">
       {/* 헤더 */}
       <header className="bg-white border-b border-gray-200 px-6 py-4">
         <div>
@@ -38,16 +38,16 @@ function HomeContent() {
       </header>
 
       {/* 메인 컨텐츠 */}
-      <main className="flex h-[calc(100vh-140px)]">
+      <main className="flex h-[calc(100vh-140px)] overflow-hidden">
         {/* 좌측 제어 패널 */}
-        <div className="w-80 flex-shrink-0 p-4">
+        <div className="w-80 flex-shrink-0 bg-white border-r border-gray-200">
           <ControlPanel />
         </div>
 
         {/* 중앙 지도 영역 */}
-        <div className="flex-1 p-4">
-          <div className="bg-white rounded-lg shadow-lg border overflow-hidden h-full">
-            <div className="p-4 border-b bg-gray-50">
+        <div className="flex-1 bg-white">
+          <div className="h-full flex flex-col">
+            <div className="p-4 border-b bg-gray-50 flex-shrink-0">
               <h2 className="text-lg font-semibold text-gray-800">
                 글로벌 무역 흐름 시각화
               </h2>
@@ -55,12 +55,14 @@ function HomeContent() {
                 선에 마우스를 올리면 상세 정보를 확인할 수 있습니다
               </p>
             </div>
-            <TradeFlowMap className="h-[calc(100%-80px)]" />
+            <div className="flex-1">
+              <TradeFlowMap className="h-full" />
+            </div>
           </div>
         </div>
 
         {/* 우측 분석 패널 */}
-        <div className="w-80 flex-shrink-0 p-4">
+        <div className="w-80 flex-shrink-0 bg-white border-l border-gray-200">
           <AnalysisPanel />
         </div>
       </main>

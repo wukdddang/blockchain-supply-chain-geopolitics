@@ -241,7 +241,7 @@ export const TradeFlowMap: React.FC<TradeFlowMapProps> = ({
   return (
     <div className={`relative ${className}`}>
       {loading && (
-        <div className="absolute inset-0 bg-white bg-opacity-75 flex items-center justify-center z-10 rounded-lg">
+        <div className="absolute inset-0 bg-white bg-opacity-75 flex items-center justify-center z-10">
           <div className="flex items-center space-x-2 text-gray-600">
             <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-blue-600"></div>
             <span>데이터 로딩 중...</span>
@@ -251,7 +251,7 @@ export const TradeFlowMap: React.FC<TradeFlowMapProps> = ({
 
       <div
         ref={mapRef}
-        className="w-full h-full rounded-lg overflow-hidden"
+        className="w-full h-full"
         style={{ minHeight: "400px" }}
       >
         {/* 지도가 여기에 렌더링됩니다 */}
