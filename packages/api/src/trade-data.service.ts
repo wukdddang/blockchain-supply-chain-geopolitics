@@ -12,7 +12,7 @@ export class TradeDataService {
 
   /**
    * 특정 상품과 연도에 대한 모든 무역 플로우 데이터를 가져옵니다
-   * @param item 상품 (copper, oil, plastic_3901)
+   * @param item 상품 (copper, oil, plastic_3901, semiconductor)
    * @param year 연도 (2018-2024)
    * @returns GeoJSON 형태의 무역 플로우 데이터 배열
    */
@@ -20,10 +20,24 @@ export class TradeDataService {
     try {
       // 해당 item과 year로 시작하는 모든 파일을 찾습니다
       const files = await fs.readdir(this.dataPath);
-      const pattern = `trade_${item}_${year}_`;
-      const matchingFiles = files.filter(
-        (file) => file.startsWith(pattern) && file.endsWith('.geojson'),
-      );
+      let matchingFiles: string[] = [];
+
+      if (item === 'semiconductor') {
+        // semiconductor의 경우 8541, 8542 두 가지 HS 코드가 있음
+        const pattern1 = `trade_semiconductor_8541_${year}_`;
+        const pattern2 = `trade_semiconductor_8542_${year}_`;
+        matchingFiles = files.filter(
+          (file) =>
+            (file.startsWith(pattern1) || file.startsWith(pattern2)) &&
+            file.endsWith('.geojson'),
+        );
+      } else {
+        // 다른 상품들의 경우 기존 로직 사용
+        const pattern = `trade_${item}_${year}_`;
+        matchingFiles = files.filter(
+          (file) => file.startsWith(pattern) && file.endsWith('.geojson'),
+        );
+      }
 
       if (matchingFiles.length === 0) {
         throw new NotFoundException(
@@ -77,12 +91,18 @@ export class TradeDataService {
       files.forEach((file) => {
         if (file.startsWith('trade_') && file.endsWith('.geojson')) {
           // trade_copper_2023_156_842.geojson → copper 추출
+          // trade_semiconductor_8541_2023_156_842.geojson → semiconductor 추출
           const parts = file.split('_');
           if (parts.length >= 3) {
             let item = parts[1];
             // plastic의 경우 HS 코드가 포함되어 있음 (plastic_3901)
             if (parts[1] === 'plastic' && parts.length > 3) {
               item = `${parts[1]}_${parts[2]}`;
+            }
+            // semiconductor의 경우 HS 코드가 포함되어 있음 (semiconductor_8541, semiconductor_8542)
+            // 하지만 API에서는 단순히 'semiconductor'로 통합해서 반환
+            if (parts[1] === 'semiconductor') {
+              item = 'semiconductor';
             }
             items.add(item);
           }
@@ -107,9 +127,15 @@ export class TradeDataService {
       files.forEach((file) => {
         if (file.startsWith('trade_') && file.endsWith('.geojson')) {
           // trade_copper_2023_156_842.geojson에서 2023 추출
+          // trade_semiconductor_8541_2023_156_842.geojson에서 2023 추출
           const parts = file.split('_');
           if (parts.length >= 3) {
-            const yearIndex = parts[1] === 'plastic' ? 3 : 2;
+            let yearIndex = 2; // 기본값
+            if (parts[1] === 'plastic') {
+              yearIndex = 3; // plastic_3901_2023_...
+            } else if (parts[1] === 'semiconductor') {
+              yearIndex = 3; // semiconductor_8541_2023_...
+            }
             const year = parseInt(parts[yearIndex]);
             if (!isNaN(year)) {
               years.add(year);

@@ -3,7 +3,13 @@
 import React, { createContext, useContext, useState, useEffect } from "react";
 
 // 품목 타입 정의
-type CommodityItem = "semiconductor" | "oil" | "copper" | "plastic_3901" | "plastic_3902" | "plastic_3903";
+type CommodityItem =
+  | "semiconductor"
+  | "oil"
+  | "copper"
+  | "plastic_3901"
+  | "plastic_3902"
+  | "plastic_3903";
 
 // 무역 흐름 데이터 타입 정의
 interface TradeFlowFeature {
@@ -70,9 +76,8 @@ export const SupplyChainProvider: React.FC<SupplyChainProviderProps> = ({
   children,
 }) => {
   // 데이터 상태
-  const [selectedYear, setSelectedYear] = useState(2023);
-  const [selectedItem, setSelectedItem] =
-    useState<CommodityItem>("semiconductor");
+  const [selectedYear, setSelectedYear] = useState(2024);
+  const [selectedItem, setSelectedItem] = useState<CommodityItem>("copper");
   const [tradeFlowData, setTradeFlowData] = useState<TradeFlowData | null>(
     null
   );
@@ -178,8 +183,10 @@ export const COMMODITY_OPTIONS: {
   { value: "semiconductor", label: "반도체", description: "8541, 8542" },
   { value: "oil", label: "원유", description: "2709" },
   { value: "copper", label: "구리", description: "7403" },
-  { value: "plastic", label: "플라스틱", description: "3901, 3902, 3903" },
+  { value: "plastic_3901", label: "플라스틱 3901", description: "3901" },
+  { value: "plastic_3902", label: "플라스틱 3902", description: "3902" },
+  { value: "plastic_3903", label: "플라스틱 3903", description: "3903" },
 ];
 
 // 연도 옵션 상수
-export const YEAR_OPTIONS = [2019, 2020, 2021, 2022, 2023];
+export const YEAR_OPTIONS = [2018, 2019, 2020, 2021, 2022, 2023, 2024];

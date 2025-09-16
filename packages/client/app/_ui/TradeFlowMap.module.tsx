@@ -20,9 +20,24 @@ export const TradeFlowMap: React.FC<TradeFlowMapProps> = ({
   const mapRef = useRef<HTMLDivElement>(null);
   const mapInstanceRef = useRef<Map | null>(null);
   const vectorSourceRef = useRef<VectorSource | null>(null);
+  const tooltipRef = useRef<HTMLDivElement>(null);
 
   const { tradeFlowData, loading, error, selectedItem, selectedYear } =
     useSupplyChain();
+
+  // 툴팁용 포맷팅 함수들
+  const formatTradeValue = (value: number): string => {
+    if (value >= 1e9) return `${(value / 1e9).toFixed(1)}B`;
+    if (value >= 1e6) return `${(value / 1e6).toFixed(1)}M`;
+    if (value >= 1e3) return `${(value / 1e3).toFixed(1)}K`;
+    return value.toFixed(0);
+  };
+
+  const formatWeight = (weight: number): string => {
+    if (weight >= 1e6) return `${(weight / 1e6).toFixed(1)}M`;
+    if (weight >= 1e3) return `${(weight / 1e3).toFixed(1)}K`;
+    return weight.toFixed(0);
+  };
 
   // 품목별 색상 정의
   const getColorByItem = (item: string): string => {
@@ -33,8 +48,12 @@ export const TradeFlowMap: React.FC<TradeFlowMapProps> = ({
         return "#ef4444"; // 빨간색
       case "copper":
         return "#f59e0b"; // 주황색
-      case "plastic":
+      case "plastic_3901":
         return "#10b981"; // 초록색
+      case "plastic_3902":
+        return "#16a34a"; // 진한 초록색
+      case "plastic_3903":
+        return "#22c55e"; // 연한 초록색
       default:
         return "#6b7280"; // 회색
     }
@@ -106,6 +125,58 @@ export const TradeFlowMap: React.FC<TradeFlowMapProps> = ({
     });
 
     mapInstanceRef.current = map;
+
+    // 툴팁 요소 생성
+    const tooltip = tooltipRef.current;
+    if (tooltip) {
+      // 마우스 이동 이벤트
+      map.on("pointermove", (evt) => {
+        const feature = map.forEachFeatureAtPixel(evt.pixel, (feature) => {
+          return feature;
+        });
+
+        if (feature) {
+          const properties = feature.getProperties();
+          const coords = evt.coordinate;
+          const pixel = map.getPixelFromCoordinate(coords);
+
+          tooltip.innerHTML = `
+            <div class="font-semibold text-sm mb-2">${
+              properties.flow_direction
+            }</div>
+            <div class="text-xs space-y-1">
+              <div><span class="font-medium">무역액:</span> $${formatTradeValue(
+                properties.trade_value
+              )}</div>
+              <div><span class="font-medium">물량:</span> ${formatWeight(
+                properties.net_weight
+              )} tons</div>
+              <div><span class="font-medium">품목:</span> ${
+                properties.item
+              }</div>
+              <div><span class="font-medium">연도:</span> ${
+                properties.year
+              }</div>
+            </div>
+          `;
+
+          tooltip.style.display = "block";
+          tooltip.style.left = `${pixel[0] + 10}px`;
+          tooltip.style.top = `${pixel[1] - 10}px`;
+
+          // 커서 스타일 변경
+          map.getTargetElement().style.cursor = "pointer";
+        } else {
+          tooltip.style.display = "none";
+          map.getTargetElement().style.cursor = "";
+        }
+      });
+
+      // 마우스가 지도를 벗어날 때 툴팁 숨김
+      map.getTargetElement().addEventListener("mouseleave", () => {
+        tooltip.style.display = "none";
+      });
+    }
 
     // 지도 리사이즈 이벤트 처리
     const handleResize = () => {
@@ -184,6 +255,15 @@ export const TradeFlowMap: React.FC<TradeFlowMapProps> = ({
         style={{ minHeight: "400px" }}
       >
         {/* 지도가 여기에 렌더링됩니다 */}
+      </div>
+
+      {/* 툴팁 */}
+      <div
+        ref={tooltipRef}
+        className="absolute pointer-events-none bg-gray-900 text-white p-3 rounded-lg shadow-xl z-20 max-w-xs"
+        style={{ display: "none" }}
+      >
+        {/* 툴팁 내용이 JavaScript로 동적 생성됩니다 */}
       </div>
 
       {/* 범례 */}

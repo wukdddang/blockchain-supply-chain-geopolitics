@@ -24,7 +24,9 @@ export const ControlPanel: React.FC<ControlPanelProps> = ({
   } = useSupplyChain();
 
   return (
-    <div className={`bg-white rounded-lg shadow-lg border p-6 ${className}`}>
+    <div
+      className={`bg-white rounded-lg shadow-lg border p-6 h-full overflow-y-auto ${className}`}
+    >
       <div className="mb-6">
         <h2 className="text-xl font-bold text-gray-800 mb-2">
           글로벌 공급망 분석 대시보드
@@ -40,7 +42,7 @@ export const ControlPanel: React.FC<ControlPanelProps> = ({
           <label className="block text-sm font-medium text-gray-700 mb-2">
             분석 연도
           </label>
-          <div className="grid grid-cols-5 gap-2">
+          <div className="grid grid-cols-4 gap-2">
             {YEAR_OPTIONS.map((year) => (
               <button
                 key={year}
